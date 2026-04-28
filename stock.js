@@ -26,8 +26,9 @@ var newItems = [
 // Add item discounts here (percentage off, e.g. 20 = 20% off)
 var saleItems = {
   // "Gear Spinner": 20
-}; "Butterfly Knife": 40
-   "Fidget Cube": 50
+   "Butterfly Knife":50
+     "Fidget Cube": 45
+}; 
 // Discount codes (code: percentage off)
 var discountCodes = {
   "SAVE10": 10,
